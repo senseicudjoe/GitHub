@@ -1,0 +1,5 @@
+TO DO LIST
+1. Kalangu
+2. Git hub
+3. Django
+4. Command line
