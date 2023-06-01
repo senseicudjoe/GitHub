@@ -3,3 +3,6 @@ TO DO LIST
 2. Git hub
 3. Django
 4. Command line
+5. Apply for remote jobs
+6. Practise code
+
